@@ -1,4 +1,4 @@
-# Artificial Neural Networks
+# collaborative_filtering_ANN
 
 This is an academic project for the course of *Computational Intelligence* concerning Artificial Neural Networks (ANN) and Deep Learning.
 
